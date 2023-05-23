@@ -1,3 +1,29 @@
-.w3-sidebar{
+.w3-sidebar {
    display: none;
+}
+
+.w3-container1 {
+   font-family: Impact;
+   display: flex;
+   background-color: rgb(26, 25, 25);
+   color: #fff;
+
+}
+
+.w3-teal,
+.w3-hover-teal:hover {
+   color: #fff !important;
+   background-color: #666666 !important;
+}
+
+.w3-container {
+   display: flex;
+   font-family: Impact;
+}
+
+h1 {
+   margin-left: 25%;
+   margin-right: 35%;
+   font-family: Impact;
+   display: flex;
 }
